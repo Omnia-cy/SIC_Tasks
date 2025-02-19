@@ -1,0 +1,90 @@
+[
+    {
+        "Id": 1,
+        "Name": "sherif",
+        "Password": "sss",
+        "Phone_number": "01025617833",
+        "E-mail": "sherif@gmail.com",
+        "Gender": "male",
+        "Age": "25",
+        "City": "cairo",
+        "balance": 51010
+    },
+    {
+        "Id": 2,
+        "Name": "ahmed",
+        "Password": "aaa",
+        "Phone_number": "01004567934",
+        "E-mail": "ahmed@gmail.com",
+        "Gender": "male",
+        "Age": "25",
+        "City": "cairo",
+        "balance": 8075
+    },
+    {
+        "Id": 3,
+        "Name": "nour",
+        "Password": "123",
+        "Phone_number": "01025617833",
+        "E-mail": "nour@gmail.com",
+        "Gender": "female",
+        "Age": "20",
+        "City": "cairo",
+        "balance": 5000
+    },
+    {
+        "Id": 4,
+        "Name": "farha",
+        "Password": "789",
+        "Phone_number": "01025648933",
+        "E-mail": "faroha@gmail.com",
+        "Gender": "female",
+        "Age": "20",
+        "City": "alx",
+        "balance": 6600
+    },
+    {
+        "Id": 5,
+        "Name": "omnia",
+        "Password": "123",
+        "Phone_number": "01025617833",
+        "E-mail": "omnia@gmail.com",
+        "Gender": "female",
+        "Age": "19",
+        "City": "giza",
+        "balance": 4770
+    },
+    {
+        "Id": 6,
+        "Name": "omnia",
+        "Password": "123",
+        "Phone_number": "01025617833",
+        "E-mail": "omnia@gmail.com",
+        "Gender": "female",
+        "Age": "19",
+        "City": "giza",
+        "balance": 3500
+    },
+    {
+        "Id": 7,
+        "Name": "omnia",
+        "Password": "123",
+        "Phone_number": "01025617833",
+        "E-mail": "omnia@gmail.com",
+        "Gender": "female",
+        "Age": "19",
+        "City": "giza",
+        "balance": 0
+    },
+    {
+        "Id": 8,
+        "Name": "omnia",
+        "Password": "123",
+        "Phone_number": "01025617833",
+        "E-mail": "omnia@gmail.com",
+        "Gender": "female",
+        "Age": "19",
+        "City": "giza",
+        "balance": 4980
+    }
+]
